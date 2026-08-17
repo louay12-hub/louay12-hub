@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Louay 👋
 
-<!--
-**louay12-hub/louay12-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Software Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about building practical software solutions and learning modern technologies.
+
+## 🛠️ Technologies
+
+- React Native
+- Node.js
+- REST APIs
+- SQL Server
+- C#
+- Python
+- Git & GitHub
+
+## 📌 Featured Project
+
+### 🏥 CareConnect
+
+A healthcare management system designed to manage hospital operations, appointments, resources, notifications, and payments.
+
+## 📫 Contact
+
+- GitHub: [louay12-hub](https://github.com/louay12-hub)
